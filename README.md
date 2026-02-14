@@ -1,4 +1,5 @@
-Aplicación Android con Google ML Kit que detecta rostros en fotografías. La captura muestra una imagen de un aula donde se identifican tres rostros con recuadros rojos y se indica el total detectado.
+
+Aplicación Android con Google ML Kit que detecta rostros en fotografías. La captura muestra una imagen de un aula donde se identifican los rostros con recuadros rojos y se indica el total detectado.
 
 <img width="300" alt="rostros1" src="https://github.com/user-attachments/assets/bfd39484-9828-456c-8adb-8eef9323d1b3" />
 
